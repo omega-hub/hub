@@ -39,6 +39,3 @@ module_def(pointCloud https://github.com/omega-hub/pointCloud.git NATIVE
 
 module_def(mvi https://github.com/omega-hub/mvi.git NATIVE 
   "A module with utility functions for multiview immersion support")
-  
-module_def(mvi https://github.com/omega-hub/mvi.git NATIVE 
-  "A module with utility functions for multiview immersion support")
