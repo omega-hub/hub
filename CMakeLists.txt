@@ -42,6 +42,3 @@ module_def(mvi https://github.com/omega-hub/mvi.git NATIVE
   
 module_def(mvi https://github.com/omega-hub/mvi.git NATIVE 
   "A module with utility functions for multiview immersion support")
-  
-
-
