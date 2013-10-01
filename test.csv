@@ -1,0 +1,2 @@
+sage, https://github.com/omega-hub/sage.git, NATIVE, "SAGE support for omegalib"
+sprite, https://github.com/omega-hub/sprite.git, SCRIPT, "A module adding support for 3D sprites to omegalib. Sprites can be placed in 3D space but have a fixed pixel size"
