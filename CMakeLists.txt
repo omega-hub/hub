@@ -15,3 +15,6 @@ module_def(caveutil https://github.com/omega-hub/caveutil.git SCRIPT
 
 module_def(polytri https://github.com/omega-hub/polytri.git SCRIPT
  "Takes a boundary / polygon (in 2D) and creates a surface made out of triangles")
+ 
+ module_def(skyboxes https://github.com/omega-hub/skyboxes.git SCRIPT
+ "A collection of skyboxes for omegalib applications, plus a skybox switcher utility script")
