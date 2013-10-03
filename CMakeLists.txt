@@ -39,3 +39,6 @@ module_def(pointCloud https://github.com/omega-hub/pointCloud.git NATIVE
 
 module_def(mvi https://github.com/omega-hub/mvi.git NATIVE 
   "A module with utility functions for multiview immersion support")
+
+module_def(cyclops https://github.com/omega-hub/cyclops.git NATIVE 
+  "Cyclops is a utility library that sits on top of omegalib and OpenSceneGraph. It is designed to speed-up development of simple graphical applications, without having to deal with the low-level details of osg")
