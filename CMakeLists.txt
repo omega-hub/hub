@@ -35,7 +35,7 @@ module_def(navigator https://github.com/omega-hub/navigator.git SCRIPT
 module_def(cavevoc https://github.com/omega-hub/cavevoc.git SCRIPT
  "CAVEVOC is a means to get speech recognition into the CAVE")
 
-module_def(caveutil https://github.com/omega-hub/caveutil.git SCRIPT
+module_def(caveutil https://github.com/omega-hub/caveutil.git NATIVE
  "CAVEutil is a Python module that bundles together a number of useful API calls that are convenient for developing VR applications, which are missing in the core Omegalib library")
  
 module_def(wandaid https://github.com/omega-hub/wandaid.git SCRIPT
