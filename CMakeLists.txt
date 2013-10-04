@@ -3,6 +3,9 @@
 module_def(omegaOsg https://github.com/omega-hub/omegaOsg.git NATIVE 
   "An OpenSceneGraph and Bullet Physics integration library for omegalib")
 
+module_def(omegaVtk https://github.com/omega-hub/omegaVtk.git NATIVE 
+  "VTK support for omegalib")
+  
 module_def(rift https://github.com/omega-hub/rift.git NATIVE 
   "This module adds Oculus Rift support to omegalib, reading sensor data from the device and rendering using a post-processing shader that corrects for the Oculs Rift lens distortion and chromatic aberration")
   
