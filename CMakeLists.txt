@@ -54,3 +54,6 @@ module_def(flipbookPlayer https://github.com/omega-hub/flipbookPlayer.git
 
 module_def(templateModule https://github.com/omega-hub/templateModule.git 
   "An example C++ module for omegalib")  
+
+module_def(vr-bundle https://github.com/omega-hub/vr-bundle.git 
+  "A set of useful modules for Virtual Reality application development")  
