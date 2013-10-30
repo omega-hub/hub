@@ -41,6 +41,8 @@ module_def(caveutil https://github.com/omega-hub/caveutil.git
 module_def(wandaid https://github.com/omega-hub/wandaid.git
  "Provides a form of tool-tip for the CAVE2's wand. Whenever you raise your wand above a certain height (default is 1.5 meters) Wandaid will kick in and show a virtual wand with labels on it to explain what the buttons do. An application can customize the labels by using the Wandaid API")
  
+module_def(orbNavigation https://github.com/tmarrinan/orbitNavigation/
+  "Translational and rotational motion for an omegalib camera.")
 #--------------------------------------------------------------------------------
 # Misc modules
 module_def(mvi https://github.com/omega-hub/mvi.git 
