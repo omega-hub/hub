@@ -65,3 +65,6 @@ module_def(vr-bundle https://github.com/omega-hub/vr-bundle.git
 
 module_def(evl https://github.com/omega-hub/evl.git 
   "Configuration files for systems in the Electronic Visualization Lab (like CAVE2  and OmegaDesk)")  
+
+module_def(webView https://github.com/omega-hub/webView.git
+  "HTML5 support for omegalib")
