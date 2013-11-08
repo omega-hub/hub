@@ -68,3 +68,8 @@ module_def(evl https://github.com/omega-hub/evl.git
 
 module_def(webView https://github.com/omega-hub/webView.git
   "HTML5 support for omegalib")
+
+#--------------------------------------------------------------------------------
+# Tools and applications
+module_def(modelView https://github.com/omega-hub/modelView.git
+  "A simple 3D model viewer for omegalib")
