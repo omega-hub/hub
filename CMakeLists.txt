@@ -73,3 +73,6 @@ module_def(webView https://github.com/omega-hub/webView.git
 # Tools and applications
 module_def(modelView https://github.com/omega-hub/modelView.git
   "A simple 3D model viewer for omegalib")
+  
+module_def(ISS https://github.com/omega-hub/ISS
+  "The omegalib International Space STation demo")
