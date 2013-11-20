@@ -46,6 +46,7 @@ module_def(wandaid https://github.com/omega-hub/wandaid.git
  
 module_def(orbNavigation https://github.com/tmarrinan/orbitNavigation/
   "Translational and rotational motion for an omegalib camera.")
+
 #--------------------------------------------------------------------------------
 # Misc modules
 module_def(mvi https://github.com/omega-hub/mvi.git 
@@ -68,6 +69,9 @@ module_def(evl https://github.com/omega-hub/evl.git
 
 module_def(webView https://github.com/omega-hub/webView.git
   "HTML5 support for omegalib")
+
+module_def(buildbot-autobuild-modules https://github.com/omega-hub/buildbot-autobuild-modules
+  "(INTERNAL) bundle module with for buildbot automatic builds")
 
 #--------------------------------------------------------------------------------
 # Tools and applications
