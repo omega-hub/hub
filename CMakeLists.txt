@@ -70,7 +70,7 @@ module_def(evl https://github.com/omega-hub/evl.git
 module_def(webView https://github.com/omega-hub/webView.git
   "HTML5 support for omegalib")
 
-module_def(buildbot-autobuild-modules https://github.com/omega-hub/buildbot-autobuild-modules
+module_def(buildbot https://github.com/omega-hub/buildbot-autobuild-modules
   "(INTERNAL) bundle module with for buildbot automatic builds")
 
 #--------------------------------------------------------------------------------
