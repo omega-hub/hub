@@ -1,3 +1,6 @@
+function(process_omegalib_modules)
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> MODULE DEFINITION START
+
 #--------------------------------------------------------------------------------
 # Third party support modules
 module_def(omegaOsg https://github.com/omega-hub/omegaOsg.git
@@ -80,3 +83,7 @@ module_def(modelView https://github.com/omega-hub/modelView.git
   
 module_def(ISS https://github.com/omega-hub/ISS
   "The omegalib International Space STation demo")
+
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODULE DEFINITION END
+endfunction()
+process_omegalib_modules()
