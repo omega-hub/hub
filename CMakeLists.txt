@@ -17,7 +17,10 @@ module_def(rift https://github.com/omega-hub/rift.git
   
 module_def(sage https://github.com/omega-hub/sage.git
   "SAGE support for omegalib")
-  
+
+module_def(sage https://github.com/omega-hub/scsound.git
+  "A preconfigured SuperCollider desktop sound server for omegalib")
+
 #--------------------------------------------------------------------------------
 # Cyclops and libraries
 module_def(cyclops https://github.com/omega-hub/cyclops.git
@@ -82,7 +85,7 @@ module_def(modelView https://github.com/omega-hub/modelView.git
   "A simple 3D model viewer for omegalib")
   
 module_def(ISS https://github.com/omega-hub/ISS
-  "The omegalib International Space STation demo")
+  "The omegalib International Space Station demo")
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODULE DEFINITION END
 endfunction()
