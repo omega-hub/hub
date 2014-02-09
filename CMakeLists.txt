@@ -18,7 +18,7 @@ module_def(rift https://github.com/omega-hub/rift.git
 module_def(sage https://github.com/omega-hub/sage.git
   "SAGE support for omegalib")
 
-module_def(sage https://github.com/omega-hub/scsound.git
+module_def(scsound https://github.com/omega-hub/scsound.git
   "A preconfigured SuperCollider desktop sound server for omegalib")
 
 #--------------------------------------------------------------------------------
