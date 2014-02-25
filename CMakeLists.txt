@@ -54,7 +54,7 @@ module_def(orbNavigation https://github.com/tmarrinan/orbitNavigation.git
   "Translational and rotational motion for an omegalib camera.")
   
 module_def(sceneTools https://github.com/omega-hub/sceneTools.git
-  "A toolkit to simplify export/import and runtime editing of cyclops scenes"
+  "A toolkit to simplify export/import and runtime editing of cyclops scenes")
 
 #--------------------------------------------------------------------------------
 # Misc modules
