@@ -90,6 +90,15 @@ module_def(modelView https://github.com/omega-hub/modelView.git
 module_def(ISS https://github.com/omega-hub/ISS
   "The omegalib International Space Station demo")
 
+#--------------------------------------------------------------------------------
+# EVL Tools and applications
+# NOTE: This apps are used internally in EVL, in the future these should be 
+# listed in a repo forked from this one.
+module_def(railSim https://github.com/uic-evl/railSim
+  "rail deformation visualization")
+
+
+
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODULE DEFINITION END
 endfunction()
 process_omegalib_modules()
