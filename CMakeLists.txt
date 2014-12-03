@@ -13,7 +13,10 @@ module_def(omegaVtk https://github.com/omega-hub/omegaVtk.git
   "VTK support for omegalib")
   
 module_def(rift https://github.com/omega-hub/rift.git
-  "This module adds Oculus Rift support to omegalib, reading sensor data from the device and rendering using a post-processing shader that corrects for the Oculs Rift lens distortion and chromatic aberration")
+  "DEPRECATED - use the oculus module")
+
+module_def(oculus https://github.com/omega-hub/oculus.git
+  "Oculus Rift support for omegalib")
   
 module_def(sage https://github.com/omega-hub/sage.git
   "SAGE support for omegalib")
