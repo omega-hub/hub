@@ -103,7 +103,8 @@ module_def(ISS https://github.com/omega-hub/ISS
 module_def(railSim https://github.com/uic-evl/railSim
   "rail deformation visualization")
 
-
+module_def(icecloud https://github.com/omega-hub/icecloud
+  "sonar data visualization for under-ice AUVs")
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODULE DEFINITION END
 endfunction()
