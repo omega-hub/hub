@@ -76,8 +76,8 @@ module_def(flipbookPlayer https://github.com/omega-hub/flipbookPlayer.git
 module_def(templateModule https://github.com/omega-hub/templateModule.git 
   "An example C++ module for omegalib")  
 
-module_def(vr-bundle https://github.com/omega-hub/vr-bundle.git 
-  "A set of useful modules for Virtual Reality application development")  
+module_def(common-modules https://github.com/omega-hub/common-modules.git 
+  "A set of modules often installed with omegalib")  
 
 module_def(evl https://github.com/omega-hub/evl.git 
   "Configuration files for systems in the Electronic Visualization Lab (like CAVE2  and OmegaDesk)")  
