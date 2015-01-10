@@ -108,4 +108,3 @@ module_def(icecloud https://github.com/omega-hub/icecloud
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODULE DEFINITION END
 endfunction()
-process_omegalib_modules()
