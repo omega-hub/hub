@@ -12,6 +12,9 @@ module_def(omegaOsgEarth https://github.com/omega-hub/omegaOsgEarth.git
 module_def(omegaVtk https://github.com/omega-hub/omegaVtk.git
   "VTK support for omegalib")
   
+module_def(omegaThreejs https://github.com/omega-hub/omegaThreejs.git
+  "Three.js support for omegalib")
+  
 module_def(rift https://github.com/omega-hub/rift.git
   "DEPRECATED - use the oculus module")
 
