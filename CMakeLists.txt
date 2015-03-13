@@ -67,6 +67,9 @@ module_def(sceneTools https://github.com/omega-hub/sceneTools.git
 
 #--------------------------------------------------------------------------------
 # Misc modules
+module_def(llenc https://github.com/omega-hub/llenc.git 
+  "Low-latency encoder using the NVIDIA GRID SDK")
+  
 module_def(mvi https://github.com/omega-hub/mvi.git 
   "A module with utility functions for multiview immersion support")
 
