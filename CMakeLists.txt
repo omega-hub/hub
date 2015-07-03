@@ -85,6 +85,9 @@ module_def(templateModule https://github.com/omega-hub/templateModule.git
 module_def(common-modules https://github.com/omega-hub/common-modules.git 
   "A set of modules often installed with omegalib")  
 
+module_def(common-modules https://github.com/omega-hub/official.git 
+  "Official modules included in omegalib release distributions")  
+
 module_def(evl https://github.com/omega-hub/evl.git 
   "Configuration files for systems in the Electronic Visualization Lab (like CAVE2  and OmegaDesk)")  
 
