@@ -97,6 +97,9 @@ module_def(webView https://github.com/omega-hub/webView.git
 module_def(buildbot https://github.com/omega-hub/buildbot-autobuild-modules.git
   "(INTERNAL) bundle module with for buildbot automatic builds")
 
+module_def(volrend https://github.com/omega-hub/volrend.git
+  "Shader-based Volume Rendering module by NUVis")
+
 #--------------------------------------------------------------------------------
 # Tools and applications
 module_def(modelView https://github.com/omega-hub/modelView.git
