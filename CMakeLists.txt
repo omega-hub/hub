@@ -100,6 +100,9 @@ module_def(buildbot https://github.com/omega-hub/buildbot-autobuild-modules.git
 module_def(volrend https://github.com/omega-hub/volrend.git
   "Shader-based Volume Rendering module by NUVis")
 
+module_def(signac https://github.com/omega-hub/signac.git
+  "Fast scatterplot analysis tool")
+
 #--------------------------------------------------------------------------------
 # Tools and applications
 module_def(modelView https://github.com/omega-hub/modelView.git
