@@ -91,6 +91,9 @@ module_def(official https://github.com/omega-hub/official.git
 module_def(evl https://github.com/omega-hub/evl.git 
   "Configuration files for systems in the Electronic Visualization Lab (like CAVE2  and OmegaDesk)")  
 
+module_def(cami https://github.com/omega-hub/cami.git 
+  "Configuration files and application for the display wall at the Center for Advanced Molecular Imaging, Northwestern University")  
+
 module_def(webView https://github.com/omega-hub/webView.git
   "HTML5 support for omegalib")
 
