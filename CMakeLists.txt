@@ -29,6 +29,9 @@ module_def(scsound https://github.com/omega-hub/scsound.git
 
 module_def(s2plot https://github.com/ajhub1/s2plot.git
   "The s2plot Library for Omegalib")
+  
+module_def(oav https://github.com/omega-hub/oav.git
+  "An ffmpeg-based video stream reader ")
 
 #--------------------------------------------------------------------------------
 # Cyclops and libraries
