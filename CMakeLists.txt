@@ -3,6 +3,9 @@ function(process_omegalib_modules)
 
 #--------------------------------------------------------------------------------
 # Third party support modules
+module_def(displaySystem_Equalizer https://github.com/omega-hub/displaySystem_Equalizer.git
+  "Equalizer support for omegalib")
+  
 module_def(omegaOsg https://github.com/omega-hub/omegaOsg.git
   "An OpenSceneGraph and Bullet Physics integration library for omegalib")
 
