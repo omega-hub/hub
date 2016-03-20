@@ -73,6 +73,12 @@ module_def(sceneTools https://github.com/omega-hub/sceneTools.git
 
 #--------------------------------------------------------------------------------
 # Misc modules
+module_def(core.tools https://github.com/omega-hub/core.tools.git 
+  "Additional binary tools for the omegalib core")
+
+module_def(core.examples https://github.com/omega-hub/core.examples.git 
+  "A set of examples for the omegalib core")
+
 module_def(llenc https://github.com/omega-hub/llenc.git 
   "Low-latency encoder using the NVIDIA GRID SDK")
   
